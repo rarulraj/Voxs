@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\rajaa\\desktop\\unrealmultiplayer\\voxs\\source\\voxs\\gamemode\\lobbygamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rajaa\\desktop\\unrealmultiplayer\\voxs\\intermediate\\build\\win64\\voxseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\rajaa\\desktop\\unrealmultiplayer\\voxs\\intermediate\\build\\win64\\unrealeditor\\development\\voxs\\definitions.voxs.h",
+            "c:\\users\\rajaa\\desktop\\unrealmultiplayer\\voxs\\source\\voxs\\gamemode\\lobbygamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemode.generated.h",
+            "c:\\users\\rajaa\\desktop\\unrealmultiplayer\\voxs\\intermediate\\build\\win64\\unrealeditor\\inc\\voxs\\lobbygamemode.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamestatebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\rajaa\\Desktop\\UnrealMultiplayer\\Voxs\\Source\\Voxs\\Voxs.Build.cs",
+		"C:\\Users\\rajaa\\Desktop\\UnrealMultiplayer\\Voxs\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
+		"C:\\Users\\rajaa\\Desktop\\UnrealMultiplayer\\Voxs\\Source\\Voxs.Target.cs",
+		"C:\\Users\\rajaa\\Desktop\\UnrealMultiplayer\\Voxs\\Source\\VoxsEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

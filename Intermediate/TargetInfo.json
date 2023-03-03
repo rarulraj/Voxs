@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Voxs",
+			"Path": "C:\\Users\\rajaa\\Desktop\\UnrealMultiplayer\\Voxs\\Source\\Voxs.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VoxsEditor",
+			"Path": "C:\\Users\\rajaa\\Desktop\\UnrealMultiplayer\\Voxs\\Source\\VoxsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
